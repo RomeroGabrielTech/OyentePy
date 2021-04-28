@@ -1,0 +1,44 @@
+* {
+    margin: 10px;
+    padding: 10px;
+}
+
+#wrapper {
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    display: inline-block;
+}
+
+#header {
+    min-height: 150px;
+    background-color: green;
+}
+
+#navigation {
+    min-height: 300px;
+    width: 200px;
+    background-color: blue;
+    display: inline-block;
+}
+
+#main_content {
+    min-height: 400px;
+    width: 900;
+    background-color: red;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.subcontents {
+    min-height: 177px;
+    width: 177px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+#advertisement {
+    min-height: 120px;
+    width: 624px;
+    background-color: purple;
+}
