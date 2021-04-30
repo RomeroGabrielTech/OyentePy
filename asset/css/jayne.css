@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #613838;
+    padding: 15px;
+}
+
+.banner {
+    height: 70px;
+    background-color: beige;
+}
+
+.banner h1 {
+    display: inline-block
+}
+
+.banner h2 {
+    display: inline-block;
+}
+
+header {}
+
+.foto {
+    width: 100px;
+    height: 100px;
+}
+
+.about {}
+
+section {
+    background-color: blueviolet;
+    max-width: 980px;
+    height: 1000px;
+}
+
+footer {}
