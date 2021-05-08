@@ -1,0 +1,59 @@
+* {
+    outline: 1px dotted red;
+}
+
+.semilla {
+    height: 600px;
+    background-image: url(/img/semilla.jpg);
+}
+
+.bajo {
+    inset-block: auto;
+}
+
+.metodo1 {
+    height: 600px;
+    background-image: url(/img/metodo.JPG);
+}
+
+.metodo2 {
+    height: 600px;
+    background-image: url(/img/fondo.jpg);
+    color: white;
+}
+
+.ancho {
+    height: 150px;
+    /* width: 100px; */
+    text-align: center;
+}
+
+.ancho>p {
+    width: 55%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.metodo2 .card {
+    background-image: url(/img/fondo.jpg);
+}
+
+.font-b {
+    font-family: "OpenSans-Bold" Helvetica !important;
+}
+
+.proyecto1 {
+    height: 500px;
+    background-image: url(/img/fotos/img-0352.JPG);
+}
+
+.proyecto2 {
+    height: 500px;
+    background-image: url(/img/fotos/img-9246.jpg);
+}
+
+.blog {
+    background-image: url(/img/fondo2.jpgdiv);
+}
+
+.mision {}
